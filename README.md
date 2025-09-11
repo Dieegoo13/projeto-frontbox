@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <b>Descrição simples do que o projeto faz ou como usá-lo.</b>
+    <b>Lading Page de um site de cursos.</b>
 </p>
 
 <h2 id="tecnologias">💻 Tecnologias</h2>
